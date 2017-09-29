@@ -5,9 +5,10 @@ This repository is a repository to create a Todo application to learn the Vue.js
 > In fact, it is going to be made more vue(Vuetiful).
 
 ## branch
-* [Step 0]()
-  * Setup development environment (with Vue-cli) [Link]()
-
+* [Step 0](https://github.com/JaeYeopHan/vue-todo-tutorial/tree/step_0_setup)
+  * Setup development environment (with Vue-cli)
+* [Step 1](https://github.com/JaeYeopHan/vue-todo-tutorial/tree/step_1)
+  * Seperate to components
 ## Setup
 
 ``` bash
