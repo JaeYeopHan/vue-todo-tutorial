@@ -9,6 +9,11 @@ This repository is a repository to create a Todo application to learn the Vue.js
   * Setup development environment (with Vue-cli)
 * [Step 1](https://github.com/JaeYeopHan/vue-todo-tutorial/tree/step_1)
   * Seperate to components
+* [Step 2]
+* [Step 3]
+
+</br>
+
 ## Setup
 
 ``` bash
